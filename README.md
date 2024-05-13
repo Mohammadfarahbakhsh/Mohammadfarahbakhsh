@@ -1,5 +1,5 @@
 ### Hi im mohammad farahbaksh✌️
-Im front-end developer( reactjs , nextjs ), but sometimes i work on back-end with django.
+Im front-end developer( reactjs), but sometimes i work on back-end with django.
 
 i want to be better in javascript, python , django and etc.
 

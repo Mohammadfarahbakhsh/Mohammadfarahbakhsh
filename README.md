@@ -1,7 +1,7 @@
 ### Hi im mohammad farahbaksh✌️
-Im front-end developer( reactjs), but sometimes i work on back-end with django.
+Im front-end developer( reactjs), but sometimes i work on back-end with express.
 
-i want to be better in javascript, python , django and etc.
+i want to be better in javascript, express and etc.
 
 <!--
 **Mohammadfarahbakhsh/Mohammadfarahbakhsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@ Im front-end developer( reactjs), but sometimes i work on back-end with express.
 
 i want to be better in javascript, express and etc.
 
-![img](https://skillicons.dev/icons?i=js,react,nodejs,tailwind,next,nest,figma,vercel&theme=light)
+![img](https://skillicons.dev/icons?i=js,react,nodejs,tailwind,next,ts,nest,figma,vercel&theme=light)
 
 <!--
 **Mohammadfarahbakhsh/Mohammadfarahbakhsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
